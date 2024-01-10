@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jemmpol
-- 👀 I’m interested in graphic desing  and software development.
-- 🌱 I’m currently learning  python and c++.
-- 💞️ I’m looking to collaborate on my professional development.
-- 📫 How to reach me: medicnope@gmail.com, +57 301 416 4180
+- 👋 Hi, I’m Jhon Esteban
+- 👀 I’m interested in graphic desing and software development.
+- 🌱 I’m currently learning python and c++.
+- 📫 How to reach me: medicnope@gmail.com, +57 301 416 4180, @jemm_pol
 
 <!---
 Jemmpol/Jemmpol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
